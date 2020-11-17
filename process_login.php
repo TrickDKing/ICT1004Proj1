@@ -1,3 +1,5 @@
+<!--Process login file-->
+
 <?php
 
 function authenticateUser() {
